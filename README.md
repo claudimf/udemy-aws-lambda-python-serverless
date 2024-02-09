@@ -14,7 +14,7 @@ Neste curso o que temos a aprender:
 <details>
     <summary>Aulas</summary>
     <ul>
-        <li><a href="">00 Conceitos</a></li>
+        <li><a href="https://github.com/claudimf/udemy-aws-lambda-python-serverless/tree/main/curso-base">Introdução ao Python</a></li>
     </ul>
 </details>
 
