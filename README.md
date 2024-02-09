@@ -16,6 +16,9 @@ Neste curso o que temos a aprender:
     <ul>
         <li><a href="https://github.com/claudimf/udemy-aws-lambda-python-serverless/tree/main/curso-base">Introdução ao Python</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/udemy-aws-lambda-python-serverless/tree/main/usando-boto3">Utilizando o Boto3</a></li>
+    </ul>
 </details>
 
 # Guia do desenvolvedor
@@ -37,3 +40,5 @@ bash 01_build_local_project.sh
 
 # Referências utilizadas
 [1° AWS Lambda com Python e Serverless Framework](https://www.udemy.com/course/aws-lambda-com-python-e-serverless-framework/)  
+[2° Boto3 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)  
+[3° Acessando EC2 privadas com EC2 Instance Connect Endpoint](https://www.youtube.com/watch?v=BCVkyoe9aoI)  
