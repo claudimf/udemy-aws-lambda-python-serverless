@@ -50,3 +50,6 @@ bash 01_build_local_project.sh
 [3° Boto3 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)  
 [4° Acessando EC2 privadas com EC2 Instance Connect Endpoint](https://www.youtube.com/watch?v=BCVkyoe9aoI)  
 [5° Lista de pacotes Python como AWS Lambda(λ) Layers ](https://github.com/keithrozario/Klayers)  
+[6° Setting Up Serverless Framework With AWS](https://www.serverless.com/framework/docs/getting-started)  
+[7° Plugins](https://www.serverless.com/framework/docs/guides/plugins)  
+[8° Search plugins](https://www.serverless.com/plugins)  
