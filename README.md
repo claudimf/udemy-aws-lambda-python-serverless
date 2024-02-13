@@ -25,6 +25,12 @@ Neste curso o que temos a aprender:
     <ul>
         <li><a href="https://github.com/claudimf/udemy-aws-lambda-python-serverless/tree/main/projeto_1">Projeto 1</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/udemy-aws-lambda-python-serverless/tree/main/projeto_1">Projeto 2</a></li>
+    </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/udemy-aws-lambda-python-serverless/tree/main/projeto_1">Projeto 3</a></li>
+    </ul>
 </details>
 
 # Guia do desenvolvedor
