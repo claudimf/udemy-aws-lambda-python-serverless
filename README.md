@@ -42,3 +42,4 @@ bash 01_build_local_project.sh
 [1° AWS Lambda com Python e Serverless Framework](https://www.udemy.com/course/aws-lambda-com-python-e-serverless-framework/)  
 [2° Boto3 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)  
 [3° Acessando EC2 privadas com EC2 Instance Connect Endpoint](https://www.youtube.com/watch?v=BCVkyoe9aoI)  
+[4° Lista de pacotes Python como AWS Lambda(λ) Layers ](https://github.com/keithrozario/Klayers)  
